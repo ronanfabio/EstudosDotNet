@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B8A40D7A-6EE0-48B6-83A3-6441F654CAC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet.Performance.GCImpact", "src\DtoNet.Performance.GCImpact\DotNet.Performance.GCImpact.csproj", "{FF6691AB-A4FE-4862-AACF-46BE7CAF5E19}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet.Performance.GCImpact", "src\DotNet.Performance.GCImpact\DotNet.Performance.GCImpact.csproj", "{FF6691AB-A4FE-4862-AACF-46BE7CAF5E19}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
